@@ -1,0 +1,307 @@
+{
+    "comfyui": "c9673926fb2df5e82ccbfe2a746c428c148450f0",
+    "git_custom_nodes": {
+        "https://github.com/WASasquatch/ASTERR": {
+            "hash": "6ce02feffdbccefb23a8a0fa2e92d0c7ba3dcce5",
+            "disabled": false
+        },
+        "https://github.com/braintacles/braintacles-comfyui-nodes": {
+            "hash": "26732fdb93b39cf6d7c5bdf8a29f386a0a482bb0",
+            "disabled": false
+        },
+        "https://github.com/chrisgoringe/cg-use-everywhere": {
+            "hash": "3af91839c42b8a4a3bc304970feb9d97ab598c0d",
+            "disabled": false
+        },
+        "https://github.com/ArtBot2023/CharacterFaceSwap": {
+            "hash": "f395496e5bf50d88579934ec2f776cd81866e8e9",
+            "disabled": false
+        },
+        "https://github.com/giriss/comfy-image-saver": {
+            "hash": "65e6903eff274a50f8b5cd768f0f96baf37baea1",
+            "disabled": false
+        },
+        "https://github.com/evanspearman/ComfyMath": {
+            "hash": "be9beab9923ccf5c5e4132dc1653bcdfa773ed70",
+            "disabled": false
+        },
+        "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet": {
+            "hash": "8afa5e0db759fa5953afd9ce01636e2e0d6f46c1",
+            "disabled": false
+        },
+        "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved": {
+            "hash": "9ccea911a63e2119778fa91b2692a8470a48e9da",
+            "disabled": false
+        },
+        "https://github.com/ArtVentureX/comfyui-animatediff": {
+            "hash": "bce8450e078a7278d6e5a603047c1c06b9c1d461",
+            "disabled": true
+        },
+        "https://github.com/sipherxyz/comfyui-art-venture": {
+            "hash": "ccc620306266fe439bf14168f08d8121b19238ea",
+            "disabled": false
+        },
+        "https://github.com/GavChap/ComfyUI-CascadeResolutions": {
+            "hash": "b8e825a9c7d579b966141d005cd43fe718932308",
+            "disabled": false
+        },
+        "https://github.com/pythongosssss/ComfyUI-Custom-Scripts": {
+            "hash": "b4a9cebf24b50c4b538945ae86c17a9dc24052a8",
+            "disabled": false
+        },
+        "https://github.com/kijai/ComfyUI-DiffusersStableCascade": {
+            "hash": "8e8492618d7f845ecd9c8f032cbed1d66276cf06",
+            "disabled": false
+        },
+        "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation": {
+            "hash": "5e11679995c68f33891c306a393915feefe234b5",
+            "disabled": false
+        },
+        "https://github.com/Hangover3832/ComfyUI-Hangover-Moondream": {
+            "hash": "c685487e1285a8ba34a2fc451e406968fa9e7460",
+            "disabled": false
+        },
+        "https://github.com/ltdrdata/ComfyUI-Impact-Pack": {
+            "hash": "47741a00677ebc37a81e3fbbbf1b00f8b385d160",
+            "disabled": false
+        },
+        "https://github.com/ltdrdata/ComfyUI-Inspire-Pack": {
+            "hash": "9506150afce2416c35206e39c4eeeb287a539f31",
+            "disabled": false
+        },
+        "https://github.com/ltdrdata/ComfyUI-Manager": {
+            "hash": "a59760373d178b94bc3db532e9caff677fd4cf60",
+            "disabled": false
+        },
+        "https://github.com/kijai/ComfyUI-moondream": {
+            "hash": "b97ad4718821d7cee5eacce139c94c9de51268b8",
+            "disabled": false
+        },
+        "https://github.com/EllangoK/ComfyUI-post-processing-nodes": {
+            "hash": "de7a29b339cd88586b54b171249b35785d20a23c",
+            "disabled": false
+        },
+        "https://github.com/receyuki/comfyui-prompt-reader-node": {
+            "hash": "bc62d2be03927d685480d91221c4a2eb788e8a9f",
+            "disabled": false
+        },
+        "https://github.com/omar92/ComfyUI-QualityOfLifeSuit_Omar92": {
+            "hash": "ebcaad0edbfbd8783eb6ad3cb979f23ee3e71c5e",
+            "disabled": false
+        },
+        "https://github.com/Gourieff/comfyui-reactor-node": {
+            "hash": "e602e50c6700be654379787da446d78649c1ef9c",
+            "disabled": false
+        },
+        "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite": {
+            "hash": "f94597739f20dac331f9918a245149b6b00a60f2",
+            "disabled": false
+        },
+        "https://github.com/BlenderNeko/ComfyUI_ADV_CLIP_emb": {
+            "hash": "c8b14087afab8efae22fce098b742f01cce22947",
+            "disabled": false
+        },
+        "https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes": {
+            "hash": "d78b780ae43fcf8c6b7c6505e6ffb4584281ceca",
+            "disabled": false
+        },
+        "https://github.com/Fannovel16/comfyui_controlnet_aux": {
+            "hash": "220ad12d153976a3e2c11ecbcf253dabe01f4655",
+            "disabled": false
+        },
+        "https://github.com/cubiq/ComfyUI_essentials": {
+            "hash": "b30d4a84bde8f8df9b35bd9457cc9adeb5d2e247",
+            "disabled": false
+        },
+        "https://github.com/comfyanonymous/ComfyUI_experiments": {
+            "hash": "934dba9d206e4738e0dac26a09b51f1dffcb4e44",
+            "disabled": false
+        },
+        "https://github.com/FizzleDorf/ComfyUI_FizzNodes": {
+            "hash": "2ad19c1c3ad424b732fa0bc16ffb02284676a5da",
+            "disabled": false
+        },
+        "https://github.com/mihaiiancu/ComfyUI_Inpaint": {
+            "hash": "b4d617fef5a98ff2600b674a5f59f0f12d41eed5",
+            "disabled": false
+        },
+        "https://github.com/cubiq/ComfyUI_IPAdapter_plus": {
+            "hash": "6a411dcb2c6c3b91a3aac97adfb080a77ade7d38",
+            "disabled": false
+        },
+        "https://github.com/JPS-GER/ComfyUI_JPS-Nodes": {
+            "hash": "5fa9f7243eb122c56eae40af7e00a87dc975c4c8",
+            "disabled": false
+        },
+        "https://github.com/storyicon/comfyui_segment_anything": {
+            "hash": "681d977c2cc244de729fd9e08145ff365c609262",
+            "disabled": false
+        },
+        "https://github.com/cubiq/ComfyUI_SimpleMath": {
+            "hash": "c6aa9d319ff6539db3d63e65342ae26d5b7d8727",
+            "disabled": false
+        },
+        "https://github.com/TinyTerra/ComfyUI_tinyterraNodes": {
+            "hash": "b87224cf037098a09da31108bc17c3d6b09f74ed",
+            "disabled": false
+        },
+        "https://github.com/ssitu/ComfyUI_UltimateSDUpscale": {
+            "hash": "bcefc5b1c412ff13c4209a6bf82215fc6ead12f3",
+            "disabled": false
+        },
+        "https://github.com/melMass/comfy_mtb": {
+            "hash": "c28181f1615d2e183767aa76cc2350934330e546",
+            "disabled": false
+        },
+        "https://github.com/picturesonpictures/comfy_PoP": {
+            "hash": "4cb7bf7c55c484e50dddf6b881739b7a506b0946",
+            "disabled": false
+        },
+        "https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes": {
+            "hash": "2ace4c463d5b2063de35e46ebb9bd3f10e2d34b4",
+            "disabled": false
+        },
+        "https://github.com/LucianoCirino/efficiency-nodes-comfyui": {
+            "hash": "040e38864616d2359d279b706c3c2e8569f11db2",
+            "disabled": false
+        },
+        "https://github.com/daxthin/facedetailer": {
+            "hash": "bde02fe0735b747b14f23ea1e2c6ff6e6eecc0ae",
+            "disabled": false
+        },
+        "https://github.com/mav-rik/facerestore_cf": {
+            "hash": "2b5d727ed658e0b3feb14a620d67dad1b1bcb0ab",
+            "disabled": false
+        },
+        "https://github.com/WASasquatch/FreeU_Advanced": {
+            "hash": "3ce68d4a1289aa8b89e7fe69e11917fe0229f9e6",
+            "disabled": false
+        },
+        "https://github.com/laksjdjf/IPAdapter-ComfyUI": {
+            "hash": "c39015c384cd433d38b4bbd3de276682ab74e0fc",
+            "disabled": false
+        },
+        "https://github.com/laksjdjf/LoRA-Merger-ComfyUI": {
+            "hash": "c3f5625c292e694de8cd9e036fe7c5522f626855",
+            "disabled": false
+        },
+        "https://github.com/BadCafeCode/masquerade-nodes-comfyui": {
+            "hash": "69a944969c29d1c63dfd62eb70a764bceb49473d",
+            "disabled": false
+        },
+        "https://github.com/AIrjen/OneButtonPrompt": {
+            "hash": "4dc3ceba0912408738bf44af7ebcb45782fd4bc8",
+            "disabled": false
+        },
+        "https://github.com/Pfaeff/pfaeff-comfyui": {
+            "hash": "93412de39ef85a936e5cc28b8cfc5abef6090ce1",
+            "disabled": false
+        },
+        "https://github.com/rgthree/rgthree-comfy": {
+            "hash": "9021670e9ff887d40e031334fc9f3e92c599d161",
+            "disabled": false
+        },
+        "https://github.com/thedyze/save-image-extended-comfyui": {
+            "hash": "37401bc6e6d53ab719ef7a7a036664d1862ee243",
+            "disabled": false
+        },
+        "https://github.com/city96/SD-Advanced-Noise": {
+            "hash": "7244dfd6e495ad2dbab6d36c98bcef222136f2b8",
+            "disabled": false
+        },
+        "https://github.com/city96/SD-Latent-Upscaler": {
+            "hash": "89543b07f2c5eccb80ea08102d139323be04e6aa",
+            "disabled": false
+        },
+        "https://github.com/twri/sdxl_prompt_styler": {
+            "hash": "63b22be867cd2760aa35a0a3a967adf455d2789c",
+            "disabled": false
+        },
+        "https://github.com/SeargeDP/SeargeSDXL": {
+            "hash": "2eb934bde0d70169ad2485695e348cf2490dc28e",
+            "disabled": false
+        },
+        "https://huggingface.co/mattmdjaga/segformer_b2_clothes": {
+            "hash": "f6ac72992f938a1d0073fb5e5a06fd781f19f9a2",
+            "disabled": false
+        },
+        "https://github.com/seanlynch/srl-nodes": {
+            "hash": "3caefa641ec5890ed8bd9d6fa5b627e3204d7772",
+            "disabled": false
+        },
+        "https://github.com/Stability-AI/stability-ComfyUI-nodes": {
+            "hash": "001154622564b17223ce0191803c5fff7b87146c",
+            "disabled": false
+        },
+        "https://github.com/rlawjdghek/StableVITON": {
+            "hash": "cb2cdec0dd906d3956ce8bc881679ab0bedf49c3",
+            "disabled": false
+        },
+        "https://github.com/WASasquatch/was-node-suite-comfyui": {
+            "hash": "6c3fed70655b737dc9b59da1cadb3c373c08d8ed",
+            "disabled": false
+        },
+        "https://github.com/WASasquatch/WAS_Extras": {
+            "hash": "755e5597c787d4ef1d1bc1e099da11827c326e6f",
+            "disabled": false
+        }
+    },
+    "file_custom_nodes": [
+        {
+            "filename": "alkemann.py",
+            "disabled": false
+        },
+        {
+            "filename": "brightness_contrast_ally.py",
+            "disabled": false
+        },
+        {
+            "filename": "DeepCash.py",
+            "disabled": false
+        },
+        {
+            "filename": "gaussian_blur_ally.py",
+            "disabled": false
+        },
+        {
+            "filename": "histogram_equalization.py",
+            "disabled": false
+        },
+        {
+            "filename": "imageflip_ally.py",
+            "disabled": false
+        },
+        {
+            "filename": "ksampler_sdxl.py",
+            "disabled": false
+        },
+        {
+            "filename": "LatentByRatio.py",
+            "disabled": false
+        },
+        {
+            "filename": "Pseudo_HDR_ally.py",
+            "disabled": false
+        },
+        {
+            "filename": "saturation_ally.py",
+            "disabled": false
+        },
+        {
+            "filename": "SDXLMixSampler.py",
+            "disabled": false
+        },
+        {
+            "filename": "sdxl_utility.py",
+            "disabled": false
+        },
+        {
+            "filename": "sharpness_ally.py",
+            "disabled": false
+        },
+        {
+            "filename": "websocket_image_save.py",
+            "disabled": false
+        }
+    ]
+}
